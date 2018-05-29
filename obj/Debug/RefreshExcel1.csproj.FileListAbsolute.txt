@@ -1,0 +1,8 @@
+c:\users\g.pettenazzi.tome\source\repos\RefreshExcel1\RefreshExcel1\obj\Debug\RefreshExcel1.csprojResolveAssemblyReference.cache
+c:\users\g.pettenazzi.tome\source\repos\RefreshExcel1\RefreshExcel1\obj\Debug\RefreshExcel1.csproj.CoreCompileInputs.cache
+c:\users\g.pettenazzi.tome\source\repos\RefreshExcel1\RefreshExcel1\obj\Debug\RefreshExcel1.csproj.ResolveComReference.cache
+c:\users\g.pettenazzi.tome\source\repos\RefreshExcel1\RefreshExcel1\bin\Debug\RefreshExcel1.exe.config
+c:\users\g.pettenazzi.tome\source\repos\RefreshExcel1\RefreshExcel1\bin\Debug\RefreshExcel1.exe
+c:\users\g.pettenazzi.tome\source\repos\RefreshExcel1\RefreshExcel1\bin\Debug\RefreshExcel1.pdb
+c:\users\g.pettenazzi.tome\source\repos\RefreshExcel1\RefreshExcel1\obj\Debug\RefreshExcel1.exe
+c:\users\g.pettenazzi.tome\source\repos\RefreshExcel1\RefreshExcel1\obj\Debug\RefreshExcel1.pdb

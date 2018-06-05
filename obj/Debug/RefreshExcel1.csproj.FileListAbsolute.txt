@@ -6,3 +6,11 @@ c:\users\g.pettenazzi.tome\source\repos\RefreshExcel1\RefreshExcel1\bin\Debug\Re
 c:\users\g.pettenazzi.tome\source\repos\RefreshExcel1\RefreshExcel1\bin\Debug\RefreshExcel1.pdb
 c:\users\g.pettenazzi.tome\source\repos\RefreshExcel1\RefreshExcel1\obj\Debug\RefreshExcel1.exe
 c:\users\g.pettenazzi.tome\source\repos\RefreshExcel1\RefreshExcel1\obj\Debug\RefreshExcel1.pdb
+C:\Users\g.pettenazzi.tome\OneDrive - Avanade\Giovanna\EINSTEIN\Power BI e TFS\RefreshExcel1\RefreshExcel1\bin\Debug\RefreshExcel1.exe.config
+C:\Users\g.pettenazzi.tome\OneDrive - Avanade\Giovanna\EINSTEIN\Power BI e TFS\RefreshExcel1\RefreshExcel1\bin\Debug\RefreshExcel1.exe
+C:\Users\g.pettenazzi.tome\OneDrive - Avanade\Giovanna\EINSTEIN\Power BI e TFS\RefreshExcel1\RefreshExcel1\bin\Debug\RefreshExcel1.pdb
+C:\Users\g.pettenazzi.tome\OneDrive - Avanade\Giovanna\EINSTEIN\Power BI e TFS\RefreshExcel1\RefreshExcel1\obj\Debug\RefreshExcel1.csprojResolveAssemblyReference.cache
+C:\Users\g.pettenazzi.tome\OneDrive - Avanade\Giovanna\EINSTEIN\Power BI e TFS\RefreshExcel1\RefreshExcel1\obj\Debug\RefreshExcel1.csproj.ResolveComReference.cache
+C:\Users\g.pettenazzi.tome\OneDrive - Avanade\Giovanna\EINSTEIN\Power BI e TFS\RefreshExcel1\RefreshExcel1\obj\Debug\RefreshExcel1.csproj.CoreCompileInputs.cache
+C:\Users\g.pettenazzi.tome\OneDrive - Avanade\Giovanna\EINSTEIN\Power BI e TFS\RefreshExcel1\RefreshExcel1\obj\Debug\RefreshExcel1.exe
+C:\Users\g.pettenazzi.tome\OneDrive - Avanade\Giovanna\EINSTEIN\Power BI e TFS\RefreshExcel1\RefreshExcel1\obj\Debug\RefreshExcel1.pdb
